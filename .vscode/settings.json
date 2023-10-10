@@ -1,0 +1,36 @@
+{
+    "cSpell.ignoreWords": [
+        "Courseform",
+        "Courseforms",
+        "Courselist",
+        "addcourse",
+        "deletecourse",
+        "editecourse",
+        "handlechange",
+        "rendercourse",
+        "renderupdateform",
+        "togglestate",
+        "updatecourse",
+        "updatecourseitem",
+        "الدالة",
+        "بتشتغل",
+        "بتكبس",
+        "بحقل",
+        "للمتغير",
+        "مابتكتب",
+        "ماينزل",
+        "مباشرة",
+        "مشان",
+        "يأسندو",
+        "يعني",
+        "ينحط"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:crudapp}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}

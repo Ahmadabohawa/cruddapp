@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: #E14647;
+    margin: 0;
+}
+h1{
+    background:#E14647 ;
+    color:#ffffff;
+    padding: 20px;
+}
+.App{
+    padding: 30px ;
+    background : #ffffff;
+    width: 80%;
+    margin: 50px auto;
+    box-shadow: 1px 2px 5px #ffffff;
+    
+}
+input{
+    width: 80%;
+    border: 0;
+    padding: 6px 10px;
+    background: #e8e8e8;
+}
+button{
+    width: 20%;
+    border: 0px;
+    padding: 6px 0;
+    margin: 0px;
+    outline: 0px;
+    color: #ffffff;
+    font-weight: bold;
+    cursor: pointer;
+    background: #4dc55b;
+}
+ul{
+    list-style: none;
+}
+li{
+    margin: 15px 0px;
+}
+li span{
+    display: inline-block;
+    width: 60%;
+    color: #6a6a6a;
+}
+li> button:first-of-type{
+    background: #6a6a6a;
+    color: #fff;
+    margin-right: 1%;
+    width: 19%;
+}
+li> button:last-of-type{
+    background: #d9534f;
+    color: #fff;
+}
+ul > form{
+    margin: 15px 0;
+}
